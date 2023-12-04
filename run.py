@@ -3,7 +3,13 @@
 # Write your code to expect a terminal of 80 characters wide and 24 rows high
 
 
-# grid
-# placing ships, 
-# taking user input
-# handling game logic
+# creating a battle ship game
+# initialize the Board
+# place ships
+# some sort of game loop
+# user input thing
+# check hit or miss
+# how to sink ships
+# how to win
+# make the code readble w functions
+# 
